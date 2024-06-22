@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rdtfgujiopfgyhujik
+=======
+gvjhbknlmfgyhujik
+>>>>>>> f0236016ab25da0d14ae26a13bd8c21da6038b74
